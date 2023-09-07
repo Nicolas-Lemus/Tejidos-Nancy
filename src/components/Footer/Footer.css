@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Elsie+Swash+Caps&family=Vujahday+Script&display=swap');
+
+
+footer{
+    background: #445e78c5;
+    height: 30vh;
+}
+.footer-nav{
+    display: flex;
+    flex-direction: row;
+}
+.footer-img{
+    width: 80px;
+    height: 80px;
+}
+.footer-h3{
+    color: white;
+    font-size: 1rem;
+    padding-left: .5rem;
+    margin-top: 18px;
+    margin-left: 1rem;
+    font-family: 'Elsie Swash Caps', cursive;
+    font-weight: 400;
+}
+.footer-redes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer-redes img{
+    width: 60px;
+    padding: .3rem;
+    margin-top: 1rem;
+}
+.footer-redes img:hover{
+    scale: 1.1;
+    transition: 1s;
+}
+footer h4{
+    text-align: center;
+    color: white;
+    font-family:'Elsie Swash Caps', cursive;
+    font-weight: 100;
+}
+footer h5{
+    text-align: center;
+    color: white;
+    font-family:'Elsie Swash Caps', cursive;
+    margin-top: -20px;
+}

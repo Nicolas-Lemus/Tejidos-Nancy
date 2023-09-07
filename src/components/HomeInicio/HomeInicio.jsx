@@ -7,20 +7,20 @@ import './HomeInicio.css'
 const HomeInicio = () => {
   return (
     <>
-      <article className='ImagenInicio'>
+      <article className='ImagenInicio animate__animated animate__fadeInLeft'>
         <img src={ImagenIncio} alt="Tejidos nancy"/>
       </article>
-      <section className='bienvenidos'>
+      <section className='bienvenidos container '>
         <div className='bienvenidosHijos'>B</div>
-        <div className='bienvenidosHijos'>i</div>
+        <div className='bienvenidosHijos '>i</div>
         <div className='bienvenidosHijos'>e</div>
-        <div className='bienvenidosHijos'>n</div>
+        <div className='bienvenidosHijos '>n</div>
         <div className='bienvenidosHijos'>v</div>
-        <div className='bienvenidosHijos'>e</div>
-        <div className='bienvenidosHijos'>n</div>
-        <div className='bienvenidosHijos'>i</div>
+        <div className='bienvenidosHijos '>e</div>
+        <div className='bienvenidosHijos '>n</div>
+        <div className='bienvenidosHijos '>i</div>
         <div className='bienvenidosHijos'>d</div>
-        <div className='bienvenidosHijos'>@</div>
+        <div className='bienvenidosHijos '>@</div>
         <div className='bienvenidosHijos'>s</div>
       </section>
       <>

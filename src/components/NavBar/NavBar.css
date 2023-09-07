@@ -23,7 +23,6 @@
   }
   
   .nav-logo {
-    color: #ffee01;
     align-items: center;
     margin-left: 20px;
     cursor: pointer;
@@ -121,7 +120,7 @@
       transform: translate(-100%, 60%);
       font-size: 1.8rem;
       cursor: pointer;
-      color: #ebf619;
+      
     }
   }
   .position-logo{
